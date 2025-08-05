@@ -3,7 +3,7 @@
 저는 과거에
 ![PHP1](https://img.shields.io/badge/-PHP2-777BB4?style=flat&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=red)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=green)
 
