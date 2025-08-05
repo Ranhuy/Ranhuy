@@ -14,8 +14,12 @@
 ![Static Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 를 공부하고 있습니다.
 
-![Ranhuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranhuy&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranhuy&layout=compact&theme=midnight-purple)](https://github.com/Ranhuy)
+<img height="170 !important"
+  alt="Ranhuy1's GitHub stats"
+  src="https://github-readme-stats.vercel.app/api?username=Ranhuy&show_icons=true&theme=midnight-purple" />
+<img height="170 !important"
+  alt="Top Langs"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranhuy&layout=compact&theme=midnight-purple" />
 
 
 <!--
