@@ -1,4 +1,13 @@
-## Hi there 👋
+### 안녕하세요 모란희입니다!
+
+저는 과거에
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+를 사용하여 개발을 했습니다.
+
+
 
 <!--
 **Ranhuy/Ranhuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
