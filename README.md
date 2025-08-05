@@ -1,13 +1,18 @@
-### 안녕하세요 모란희입니다!
+### 안녕하세요!
 
-저는 과거에
-![PHP1](https://img.shields.io/badge/-PHP2-777BB4?style=flat&logo=PHP&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=black&labelColor=black)
-![tet](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=green)
+저는 과거 
+![Static Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
+![Static Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+을 사용했었고
 
-를 사용하여 개발을 했습니다.
+현재
+![Static Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=black)
+![Static Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Static Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
+![Static Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+를 공부하고 있습니다.
 
 
 
